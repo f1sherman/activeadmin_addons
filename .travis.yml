@@ -20,4 +20,4 @@ deploy:
     tags: true
     repo: platanus/activeadmin_addons
 before_script:
-  - chromedriver-update 73.0.3683.68
+  - chromedriver-update 76.0.3809.126
